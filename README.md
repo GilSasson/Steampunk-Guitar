@@ -1,4 +1,4 @@
-# Steampunk-Guitar
+# Steampunk Guitar
 This is a first year, required course, SolidWorks project.
 
 The SLDPRT file can be downloaded in the link below.
